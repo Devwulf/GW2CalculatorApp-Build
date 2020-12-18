@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GW2 Trading",
+  "name": "An app for tracking items in the GW2 marketplace",
   "icons": [
     {
       "src": "favicon.ico",
